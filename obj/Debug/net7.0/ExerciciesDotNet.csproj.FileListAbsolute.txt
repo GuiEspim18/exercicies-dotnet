@@ -1,0 +1,15 @@
+/Users/guiespim/Documents/pasta-do-gui/dot-net/ExerciciesDotNet/bin/Debug/net7.0/ExerciciesDotNet
+/Users/guiespim/Documents/pasta-do-gui/dot-net/ExerciciesDotNet/bin/Debug/net7.0/ExerciciesDotNet.deps.json
+/Users/guiespim/Documents/pasta-do-gui/dot-net/ExerciciesDotNet/bin/Debug/net7.0/ExerciciesDotNet.runtimeconfig.json
+/Users/guiespim/Documents/pasta-do-gui/dot-net/ExerciciesDotNet/bin/Debug/net7.0/ExerciciesDotNet.dll
+/Users/guiespim/Documents/pasta-do-gui/dot-net/ExerciciesDotNet/bin/Debug/net7.0/ExerciciesDotNet.pdb
+/Users/guiespim/Documents/pasta-do-gui/dot-net/ExerciciesDotNet/obj/Debug/net7.0/ExerciciesDotNet.csproj.AssemblyReference.cache
+/Users/guiespim/Documents/pasta-do-gui/dot-net/ExerciciesDotNet/obj/Debug/net7.0/ExerciciesDotNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guiespim/Documents/pasta-do-gui/dot-net/ExerciciesDotNet/obj/Debug/net7.0/ExerciciesDotNet.AssemblyInfoInputs.cache
+/Users/guiespim/Documents/pasta-do-gui/dot-net/ExerciciesDotNet/obj/Debug/net7.0/ExerciciesDotNet.AssemblyInfo.cs
+/Users/guiespim/Documents/pasta-do-gui/dot-net/ExerciciesDotNet/obj/Debug/net7.0/ExerciciesDotNet.csproj.CoreCompileInputs.cache
+/Users/guiespim/Documents/pasta-do-gui/dot-net/ExerciciesDotNet/obj/Debug/net7.0/ExerciciesDotNet.dll
+/Users/guiespim/Documents/pasta-do-gui/dot-net/ExerciciesDotNet/obj/Debug/net7.0/refint/ExerciciesDotNet.dll
+/Users/guiespim/Documents/pasta-do-gui/dot-net/ExerciciesDotNet/obj/Debug/net7.0/ExerciciesDotNet.pdb
+/Users/guiespim/Documents/pasta-do-gui/dot-net/ExerciciesDotNet/obj/Debug/net7.0/ExerciciesDotNet.genruntimeconfig.cache
+/Users/guiespim/Documents/pasta-do-gui/dot-net/ExerciciesDotNet/obj/Debug/net7.0/ref/ExerciciesDotNet.dll
